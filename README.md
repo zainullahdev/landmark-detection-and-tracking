@@ -1,2 +1,2 @@
 # landmark-detection-and-tracking
-SLAM ( Simultaneous Localization &amp; Mapping)
+SLAM - Simultaneous Localization and Mapping
